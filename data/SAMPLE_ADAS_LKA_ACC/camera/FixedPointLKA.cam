@@ -1,0 +1,20 @@
+<camTree>
+ <FCam y="-6.9963092803955078" h="-180.00000500895632" r="0" ProcName="" z="0.89999973773956299" AttachedProc="0" ChanId="0" name="Fixed_LKA" x="345.939208984375" p="0"/>
+ <VCam y="0" Mode="2" h="0" r="0" ProcName="" z="2.5999994277954102" AttachedProc="0" VId="0" ChanId="0" name="Relative" x="-13.800018310546875" p="5.0400000036469939"/>
+ <VCam y="0" Mode="2" h="0" r="0" ProcName="" z="1.5" AttachedProc="0" VId="0" ChanId="0" name="back" x="-8" p="5.8499998212816227"/>
+ <VCam y="-1800" Mode="1" h="0" r="0" ProcName="" z="100" AttachedProc="1" VId="0" ChanId="0" name="camCenterDatabase" x="-10" p="0"/>
+ <VCam y="-2" Mode="2" h="-11.299999859105203" r="0" ProcName="" z="3" AttachedProc="1" VId="0" ChanId="0" name="camVehViewbehind" x="-10" p="14.100000050858787"/>
+ <VCam y="-3979" Mode="1" h="0" r="0" ProcName="" z="75.89990234375" AttachedProc="0" VId="0" ChanId="0" name="look at" x="405.60000610351563" p="0"/>
+ <FCam y="-3487.070068359375" h="56.500001003073308" r="-1.2000000974260656" ProcName="" z="129.10000610351563" AttachedProc="0" ChanId="0" name="radar view" x="7.8542299270629883" p="18.700000975720851"/>
+ <VCam y="0" Mode="2" h="-180.00000500895632" r="0" ProcName="" z="2" AttachedProc="0" VId="0" ChanId="0" name="rear" x="0" p="12.000000333930423"/>
+ <VCam y="5" Mode="2" h="-28.980000874743862" r="0" ProcName="" z="1.5" AttachedProc="0" VId="0" ChanId="0" name="side left back" x="-8" p="6.0000001669652114"/>
+ <VCam y="5" Mode="2" h="-145.62000193488703" r="0" ProcName="" z="1.5" AttachedProc="0" VId="0" ChanId="0" name="side left front" x="10" p="6.0000001669652114"/>
+ <VCam y="-5" Mode="2" h="34.200000268682786" r="0" ProcName="" z="1.5" AttachedProc="0" VId="0" ChanId="0" name="side right back" x="-8" p="6.0000001669652114"/>
+ <VCam y="-5" Mode="2" h="149.94000096227171" r="0" ProcName="" z="1.5" AttachedProc="0" VId="0" ChanId="0" name="side right front" x="10" p="6.0000001669652114"/>
+ <VCam y="1.5" Mode="2" h="-10.260000251359566" r="0" ProcName="" z="0.5" AttachedProc="0" VId="0" ChanId="0" name="tyre left front middle" x="-0.60000002384185791" p="0.99999999225363323"/>
+ <VCam y="1.5" Mode="2" h="-165.96000475486153" r="0" ProcName="" z="0.5" AttachedProc="0" VId="0" ChanId="0" name="tyre left rear middle" x="3" p="0.99999999225363323"/>
+ <VCam y="-1.5" Mode="2" h="14.04000025409481" r="0" ProcName="" z="0.5" AttachedProc="0" VId="0" ChanId="0" name="tyre right front middle" x="-0.60000002384185791" p="0.99999999225363323"/>
+ <VCam y="-1.5" Mode="2" h="169.56000622107848" r="0" ProcName="" z="0.5" AttachedProc="0" VId="0" ChanId="0" name="tyre right rear middle" x="3" p="0.99999999225363323"/>
+ <VCam y="-0.5" Mode="2" h="-2.8800000630678282" r="0" ProcName="" z="2.7000000476837158" AttachedProc="0" VId="0" ChanId="0" name="upper view" x="-7.8999900817871094" p="5.7600001261356564"/>
+</camTree>
+

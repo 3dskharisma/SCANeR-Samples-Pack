@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<sce version="20.23.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<sce version="20.23.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
   <Scenario>
     <description>To use this scenario:
@@ -380,12 +380,14 @@ TYPEOF SCENARIO (0)
       </Step>
       <Transition>
         <allConditionsTrue>1</allConditionsTrue>
+        <disabled>0</disabled>
         <fromStep>Main Step</fromStep>
         <name>Forward</name>
         <toStep>BUILTIN_SUCCESS_ADB568D064DB408EAFDE1D4021E336DF</toStep>
       </Transition>
       <Transition>
         <allConditionsTrue>0</allConditionsTrue>
+        <disabled>0</disabled>
         <fromStep>Main Step</fromStep>
         <name>Failure</name>
         <toStep>BUILTIN_FAILURE_A36CBB59761A4AF1B2BACC50D71084AB</toStep>
@@ -397,12 +399,14 @@ TYPEOF SCENARIO (0)
       </Step>
       <Transition>
         <allConditionsTrue>0</allConditionsTrue>
+        <disabled>0</disabled>
         <fromStep>_background_task_step</fromStep>
         <name>_end_scenario_condition_list</name>
         <toStep>BUILTIN_SUCCESS_ADB568D064DB408EAFDE1D4021E336DF</toStep>
       </Transition>
       <Transition>
         <allConditionsTrue>0</allConditionsTrue>
+        <disabled>0</disabled>
         <fromStep>_background_task_step</fromStep>
         <name>_failed_scenario_condition_list</name>
         <toStep>BUILTIN_FAILURE_A36CBB59761A4AF1B2BACC50D71084AB</toStep>
@@ -527,11 +531,11 @@ TYPEOF SCENARIO (0)
       </Model>
       <ObjectPosition>
         <heading>0</heading>
-        <position>-5.65440601051405e-15 -1.74999999996894 0</position>
+        <position>-0.490286320447927 -1.74999999996894 0</position>
         <RoadPosition>
-          <abscissa>9990</abscissa>
+          <abscissa>9990.49028632045</abscissa>
           <gapInItnSystem>-1.75</gapInItnSystem>
-          <relativeHeading>3.14159265358979</relativeHeading>
+          <relativeHeading>3.14159274101257</relativeHeading>
           <subNetwork>Sub Network</subNetwork>
           <track>Track</track>
           <zOffset>0</zOffset>
@@ -653,10 +657,10 @@ TYPEOF SCENARIO (0)
       </Model>
       <ObjectPosition>
         <heading>0</heading>
-        <position>9.99999999999999 -1.74999999996911 0</position>
+        <position>9.11548995971679 -1.74999999996897 0</position>
         <RoadPosition>
-          <abscissa>9980</abscissa>
-          <gapInItnSystem>-1.75000000000013</gapInItnSystem>
+          <abscissa>9980.88451004028</abscissa>
+          <gapInItnSystem>-1.75</gapInItnSystem>
           <relativeHeading>3.14159274101257</relativeHeading>
           <subNetwork>Sub Network</subNetwork>
           <track>Track</track>
